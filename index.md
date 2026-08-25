@@ -1,5 +1,5 @@
 ---
 title: Pages test
-
-#Github pages
 ---
+
+Github Pages
